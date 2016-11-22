@@ -4,19 +4,19 @@
 
 #Subjet and activity:
 
-*Subject: integer id
+* Subject: integer id
 
-*Activity:
+* Activity:
 
-**Walking
+** Walking
 
-**Walking Upstairs
+** Walking Upstairs
 
-**Walking Downstairs
+** Walking Downstairs
 
-**Sitting
+** Sitting
 
-**Standing
+** Standing
 
-**Laying
+** Laying
 
