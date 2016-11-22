@@ -7,16 +7,10 @@
 * Subject: integer id
 
 * Activity:
-
-+ Walking
-
-+ Walking Upstairs
-
-+ Walking Downstairs
-
-+ Sitting
-
-+ Standing
-
-+ Laying
+  + Walking
+  + Walking Upstairs
+  + Walking Downstairs
+  + Sitting
+  + Standing
+  + Laying
 
