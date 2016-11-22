@@ -86,4 +86,4 @@ library(plyr)
 Data<-aggregate(. ~subject + name_activity, data_select, mean)
 head(Data,1)
 Data<-Data[order(Data$subject,Data$activity),]
-write.table(Data, file = "tidydata_mean.txt",row.name=FALSE)
+write.table(Data, file = "tidydata_mean.txt",row.names=FALSE)
