@@ -92,7 +92,9 @@ These signals were used to estimate variables of the feature vector for each pat
 + frequencyBodyGyroscopeJerkMagnitude-std()          
                                                      
                                     
-                                                              
-                                                              
+The set of variables that were estimated from these signals are: 
+
+mean(): Mean value
+std(): Standard deviation                                                     
                                                               
                                                               
